@@ -4,13 +4,13 @@ $GTK_THEME=Kripton
 $ICON_THEME=Colorful-Dark-Icons
 $CURSOR_THEME=buuf-cursor
 $COLOR_SCHEME=prefer-dark
-$CURSOR_SIZE=20
+$CURSOR_SIZE=10
 
 exec = gsettings set org.gnome.desktop.interface icon-theme 'Colorful-Dark-Icons'
 exec = gsettings set org.gnome.desktop.interface cursor-theme 'buuf-cursor'
 exec = gsettings set org.gnome.desktop.interface gtk-theme "Kripton"
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-exec = gsettings set org.gnome.desktop.interface cursor-size 20
+exec = gsettings set org.gnome.desktop.interface cursor-size 10
 
 general {
     gaps_in = 0
