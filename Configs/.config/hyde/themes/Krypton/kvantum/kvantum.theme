@@ -3018,14 +3018,14 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   <path
      id="tabframe-normal"
      d="m269.63 489.41v32h32v-32z"
-     fill="#262626"
+     fill="#0d0c16"
      opacity=".8" />
   <g
      id="tabframe-normal-left"
      transform="matrix(.8 0 0 .98462 248.63 441.41)">
     <path
        d="m26.25 81.251v-32.5h-5v32.5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path169" />
     <path
@@ -3038,7 +3038,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(.8 0 0 .8 248.63 452.41)">
     <path
        d="m26.25 41.252h-5v5h5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path171" />
     <path
@@ -3051,7 +3051,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(-.8 0 0 .98462 322.64 441.41)">
     <path
        d="m26.25 81.251v-32.5h-5v32.5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path173" />
     <path
@@ -3064,7 +3064,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(-.8 0 0 .8 322.64 452.41)">
     <path
        d="m26.25 41.252h-5v5h5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path175" />
     <path
@@ -3077,7 +3077,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(0 .8 -.98462 0 349.63 468.41)">
     <path
        d="m26.25 81.251v-32.5h-5v32.5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path177" />
     <path
@@ -3090,7 +3090,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(0 -.8 .98462 0 221.63 542.41)">
     <path
        d="m26.25 81.251v-32.5h-5v32.5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path179" />
     <path
@@ -3103,7 +3103,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(0 -.8 .8 0 232.63 542.41)">
     <path
        d="m26.25 41.252h-5v5h5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path181" />
     <path
@@ -3116,7 +3116,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="matrix(-.8 0 0 -.8 322.63 558.41)">
     <path
        d="m26.25 41.252h-5v5h5z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path183" />
     <path
@@ -6185,7 +6185,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        id="path393" />
     <path
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="path394" />
     <rect
@@ -6218,7 +6218,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-80.667"
        width="26"
        height="6.6668"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        stroke-width="1.0541"
        id="rect396" />
@@ -6239,7 +6239,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-74"
        width="26"
        height="26"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="rect398" />
   </g>
@@ -6257,7 +6257,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-80"
        width="26"
        height="6"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="rect399" />
     <rect
@@ -6276,7 +6276,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-80"
        width="26"
        height="6"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="rect401" />
     <rect
@@ -6295,7 +6295,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-80"
        width="26"
        height="6"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="rect403" />
     <rect
@@ -6314,7 +6314,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-80"
        width="26"
        height="6"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="rect405" />
     <rect
@@ -6333,7 +6333,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="-74"
        width="26"
        height="26"
-       fill="#262626"
+       fill="#0d0c16"
        opacity=".8"
        id="rect407" />
   </g>
