@@ -2,12 +2,12 @@ $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
 $GTK_THEME=Kripton
 $ICON_THEME=Colorful-Dark-Icons
-$CURSOR_THEME=buuf-cursor
+$CURSOR_THEME=Moonlight
 $COLOR_SCHEME=prefer-dark
 $CURSOR_SIZE=10
 
 exec = gsettings set org.gnome.desktop.interface icon-theme 'Colorful-Dark-Icons'
-exec = gsettings set org.gnome.desktop.interface cursor-theme 'buuf-cursor'
+exec = gsettings set org.gnome.desktop.interface cursor-theme 'Moonlight'
 exec = gsettings set org.gnome.desktop.interface gtk-theme "Kripton"
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 exec = gsettings set org.gnome.desktop.interface cursor-size 10
