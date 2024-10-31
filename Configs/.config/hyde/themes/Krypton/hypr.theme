@@ -3,12 +3,10 @@ $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 $GTK_THEME=Kripton
 $ICON_THEME=Colorful-Dark-Icons
 $COLOR_SCHEME=prefer-dark
-$FONT_NAME=Iosevka Nerd Font Mono
 
 exec = gsettings set org.gnome.desktop.interface icon-theme 'Colorful-Dark-Icons'
 exec = gsettings set org.gnome.desktop.interface gtk-theme "Kripton"
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-exec = gsettings set org.gnome.desktop.interface font-name 'Iosevka Nerd Font Mono'
 exec = gsettings set org.gnome.desktop.interface cursor-size 20
 
 general {
