@@ -1,4 +1,4 @@
-# Krypton
+# Crimson Blade
 
 <div align = center>
     <a href="https://discord.gg/AYbJ9MJez7">
