@@ -1,4 +1,5 @@
 $HOME/.config/Kvantum/wallbash/wallbash.svg
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="Mega-Kvantum.svg"
@@ -2798,108 +2799,108 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   <g
      id="g7998">
     <g
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        transform="translate(-242.76608,-863.35638)"
        id="g6135">
       <g
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="expand-scrollbarslider-normal-top"
          transform="matrix(0,1,1,0,-740.91112,1013.957)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2411"
            d="m 143,1101 v 16.4064 0.094 h 12 v -16.5 h -12 z" />
         <path
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2413"
            d="m 146.375,1100.9998 v 16.4064 0.094 l 8.625,2e-4 v -16.5 l -8.625,-2e-4 z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="expand-scrollbarslider-normal-topleft"
          transform="matrix(0,1,1,0,-740.91112,1013.957)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2423"
            d="m 155,1089 c -6.648,0 -12,5.3521 -12,12 h 12 z" />
         <path
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2425"
            d="m 155,1092.5 c -4,0.011 -8.625,2.7501 -8.625,8.4998 L 155,1101 Z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="expand-scrollbarslider-normal-topright"
          transform="rotate(90,231.81613,1245.7731)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2429"
            d="m 155,1089 c -6.648,0 -12,5.3521 -12,12 h 12 z" />
         <path
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2431"
            d="m 155,1092.5 c -4,0.011 -8.625,2.7501 -8.625,8.4998 L 155,1101 Z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="expand-scrollbarslider-normal-bottomleft"
          transform="rotate(-90,291.52288,1032.434)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2435"
            d="m 155,1089 c -6.648,0 -12,5.3521 -12,12 h 12 z" />
         <path
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2437"
            d="m 155,1092.5 c -4,0.011 -8.625,2.7501 -8.625,8.4998 L 155,1101 Z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="expand-scrollbarslider-normal-bottom"
          transform="rotate(-90,291.52288,1032.434)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2417"
            d="m 143,1101 v 16.4064 0.094 h 12 v -16.5 h -12 z" />
         <path
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2419"
            d="m 146.375,1100.9998 v 16.4064 0.094 l 8.625,2e-4 v -16.5 l -8.625,-2e-4 z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="expand-scrollbarslider-normal-bottomright"
          transform="matrix(0,-1,-1,0,1477.5886,1323.9569)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2441"
            d="m 155,1089 c -6.648,0 -12,5.3521 -12,12 h 12 z" />
         <path
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path2443"
            d="m 155,1092.5 c -4,0.011 -8.625,2.7501 -8.625,8.4998 L 155,1101 Z" />
       </g>
     </g>
     <g
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        transform="translate(-259.58603,-865.85648)"
        id="g6155">
       <g
@@ -2907,10 +2908,10 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
         <g
            transform="matrix(0,1,-1.3788159,0,1384.1178,946.45698)"
            id="expand-scrollbarslider-focused-bottomright"
-           style="fill:#808080;fill-opacity:1;stroke:none">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <rect
              id="rect2387"
-             style="opacity:0;fill:#808080;fill-opacity:1"
+             style="opacity:0;fill:#ffffff;fill-opacity:1"
              height="8.702877"
              y="669.797"
              x="225"
@@ -2918,16 +2919,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <path
              d="M 225,670.8848 V 678.5 h 10.5 c 0,-4.35156 -4.5,-7.61523 -10.5,-7.61521 z"
              id="path2389"
-             style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
              inkscape:connector-curvature="0" />
         </g>
         <g
            transform="matrix(0,1,-1.3788175,0,1384.1189,946.45698)"
            id="expand-scrollbarslider-focused-topright"
-           style="fill:#808080;fill-opacity:1;stroke:none">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <rect
              id="rect2363"
-             style="opacity:0;fill:#808080;fill-opacity:1"
+             style="opacity:0;fill:#ffffff;fill-opacity:1"
              height="8.7029018"
              y="669.79688"
              x="213"
@@ -2935,16 +2936,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <path
              d="m 225,670.8847 c -6,4e-5 -10.5,3.2637 -10.5,7.6152 H 225 Z"
              id="path2365"
-             style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
              inkscape:connector-curvature="0" />
         </g>
         <g
            transform="rotate(90,90.317132,1036.7742)"
            id="expand-scrollbarslider-focused-top"
-           style="fill:#808080;fill-opacity:1;stroke:none">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <rect
              id="rect2351"
-             style="opacity:0;fill:#808080;fill-opacity:1"
+             style="opacity:0;fill:#ffffff;fill-opacity:1"
              height="22.999884"
              y="678.49976"
              x="212.99995"
@@ -2952,16 +2953,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <path
              d="m 214.5,678.5004 v 22.8687 0.131 h 10.4999 V 678.5007 H 214.5 Z"
              id="path2353"
-             style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
              inkscape:connector-curvature="0" />
         </g>
         <g
            transform="rotate(90,90.317132,1036.7742)"
            id="expand-scrollbarslider-focused-bottom"
-           style="fill:#808080;fill-opacity:1;stroke:none">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <rect
              id="rect2339"
-             style="opacity:0;fill:#808080;fill-opacity:1"
+             style="opacity:0;fill:#ffffff;fill-opacity:1"
              height="22.993509"
              y="678.50287"
              x="224.99998"
@@ -2969,16 +2970,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <path
              d="m 225,678.5005 v 22.9992 h 10.5 c 2.2e-4,-0.0452 -2e-4,-0.086 0,-0.131 V 678.5001 H 225 Z"
              id="path2341"
-             style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
              inkscape:connector-curvature="0" />
         </g>
         <g
            transform="matrix(0,1,1.3788159,0,-509.9349,946.45698)"
            id="expand-scrollbarslider-focused-bottomleft"
-           style="fill:#808080;fill-opacity:1;stroke:none">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <rect
              id="rect2393"
-             style="opacity:0;fill:#808080;fill-opacity:1"
+             style="opacity:0;fill:#ffffff;fill-opacity:1"
              height="8.702877"
              y="669.797"
              x="225"
@@ -2986,16 +2987,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <path
              d="M 225,670.8848 V 678.5 h 10.5 c 0,-4.35156 -4.5,-7.61523 -10.5,-7.61521 z"
              id="path2395"
-             style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
              inkscape:connector-curvature="0" />
         </g>
         <g
            transform="matrix(0,1,1.3788175,0,-509.93594,946.45698)"
            id="expand-scrollbarslider-focused-topleft"
-           style="fill:#808080;fill-opacity:1;stroke:none">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <rect
              id="rect2369"
-             style="opacity:0;fill:#808080;fill-opacity:1"
+             style="opacity:0;fill:#ffffff;fill-opacity:1"
              height="8.7029018"
              y="669.79688"
              x="213"
@@ -3003,17 +3004,17 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <path
              d="m 225,670.8847 c -6,4e-5 -10.5,3.2637 -10.5,7.6152 H 225 Z"
              id="path2371"
-             style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
              inkscape:connector-curvature="0" />
         </g>
       </g>
     </g>
     <g
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        transform="translate(-268.40397,-865.85653)"
        id="g6175">
       <g
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="expand-scrollbarslider-pressed-bottomright"
          transform="matrix(0,1,-1.3788159,0,1448.1179,946.45708)">
         <rect
@@ -3021,16 +3022,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            x="225"
            y="669.797"
            height="8.702877"
-           style="opacity:0;fill:#808080;fill-opacity:1"
+           style="opacity:0;fill:#ffffff;fill-opacity:1"
            id="rect2399" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path2401"
            d="M 225,670.8848 V 678.5 h 10.5 c 0,-4.35156 -4.5,-7.61523 -10.5,-7.61521 z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="expand-scrollbarslider-pressed-topright"
          transform="matrix(0,1,-1.3788175,0,1448.119,946.45708)">
         <rect
@@ -3038,16 +3039,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            x="213"
            y="669.79688"
            height="8.7029018"
-           style="opacity:0;fill:#808080;fill-opacity:1"
+           style="opacity:0;fill:#ffffff;fill-opacity:1"
            id="rect2375" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path2377"
            d="m 225,670.8847 c -6,4e-5 -10.5,3.2637 -10.5,7.6152 H 225 Z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="expand-scrollbarslider-pressed-top"
          transform="rotate(90,122.31713,1068.7743)">
         <rect
@@ -3055,17 +3056,17 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            x="212.99995"
            y="678.49976"
            height="22.999884"
-           style="opacity:0;fill:#808080;fill-opacity:1"
+           style="opacity:0;fill:#ffffff;fill-opacity:1"
            id="rect2357" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path2359"
            d="m 214.5,678.5004 v 11.07273 11.79597 0.131 h 10.4999 V 678.5007 H 214.5 Z"
            sodipodi:nodetypes="cccccccc" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="expand-scrollbarslider-pressed-bottom"
          transform="rotate(90,122.31713,1068.7743)">
         <rect
@@ -3073,16 +3074,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            x="224.99998"
            y="678.50287"
            height="22.993509"
-           style="opacity:0;fill:#808080;fill-opacity:1"
+           style="opacity:0;fill:#ffffff;fill-opacity:1"
            id="rect2345" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path2347"
            d="m 225,678.5005 v 22.9992 h 10.5 c 2.2e-4,-0.0452 -2e-4,-0.086 0,-0.131 V 678.5001 H 225 Z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="expand-scrollbarslider-pressed-bottomleft"
          transform="matrix(0,1,1.3788159,0,-445.9349,946.45698)">
         <rect
@@ -3090,16 +3091,16 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            x="225"
            y="669.797"
            height="8.702877"
-           style="opacity:0;fill:#808080;fill-opacity:1"
+           style="opacity:0;fill:#ffffff;fill-opacity:1"
            id="rect2405" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path2407"
            d="M 225,670.8848 V 678.5 h 10.5 c 0,-4.35156 -4.5,-7.61523 -10.5,-7.61521 z" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="expand-scrollbarslider-pressed-topleft"
          transform="matrix(0,1,1.3788175,0,-445.93594,946.45698)">
         <rect
@@ -3107,11 +3108,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            x="213"
            y="669.79688"
            height="8.7029018"
-           style="opacity:0;fill:#808080;fill-opacity:1"
+           style="opacity:0;fill:#ffffff;fill-opacity:1"
            id="rect2381" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#808080;fill-opacity:1;fill-rule:evenodd"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path2383"
            d="m 225,670.8847 c -6,4e-5 -10.5,3.2637 -10.5,7.6152 H 225 Z" />
       </g>
@@ -3144,7 +3145,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
          y="269.55008"
          class="ColorScheme-Text" />
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-right"
          transform="matrix(1.8750001,0,0,4.0000079,295.57496,239.68324)">
         <path
@@ -3154,7 +3155,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            inkscape:connector-curvature="0"
            class="ColorScheme-Text" />
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.23168"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23168"
            id="rect3856"
            width="1.4222221"
            height="10.666667"
@@ -3162,11 +3163,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            y="7.4666667" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-topright"
          transform="matrix(1.8750001,0,0,1.8749993,295.575,255.55004)">
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.42222"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42222"
            id="rect3852"
            width="5.6888885"
            height="5.6888885"
@@ -3180,11 +3181,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            class="ColorScheme-Text" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-bottomright"
          transform="matrix(1.8750001,0,0,1.8749993,295.575,278.21684)">
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.42222"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42222"
            id="rect3862"
            width="5.6888885"
            height="5.6888885"
@@ -3198,7 +3199,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            class="ColorScheme-Text" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-left"
          transform="matrix(-1.8749997,0,0,4.0000079,320.9083,239.68324)">
         <path
@@ -3208,7 +3209,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            inkscape:connector-curvature="0"
            class="ColorScheme-Text" />
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.23168"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23168"
            id="rect3854"
            width="1.4222221"
            height="10.666667"
@@ -3217,11 +3218,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            transform="scale(-1,1)" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-topleft"
          transform="matrix(-1.8749997,0,0,1.8749993,320.90834,255.55004)">
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.42222"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42222"
            id="rect3848"
            width="5.6888885"
            height="5.6888885"
@@ -3236,11 +3237,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            class="ColorScheme-Text" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-bottomleft"
          transform="matrix(-1.8749997,0,0,1.8749993,320.90834,278.21684)">
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.42222"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42222"
            id="rect3858"
            width="5.6888885"
            height="5.6888885"
@@ -3255,11 +3256,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            class="ColorScheme-Text" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          transform="matrix(0,-1.8749993,-0.99999611,0,321.04162,287.55004)"
          id="scrollbarslider-normal-top">
         <rect
-           style="opacity:0.01;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3.89492"
+           style="opacity:0.01;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89492"
            id="rect3850-9"
            width="10.666667"
            height="5.6888885"
@@ -3274,11 +3275,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
            class="ColorScheme-Text" />
       </g>
       <g
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="scrollbarslider-normal-bottom"
          transform="matrix(0,1.8749993,-0.99999611,0,321.04162,294.21684)">
         <rect
-           style="opacity:0;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3.89492"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89492"
            id="rect3860"
            width="10.666667"
            height="5.6888885"
@@ -4417,7 +4418,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
          transform="matrix(-0.70661567,-0.70759755,0.70710678,-0.70710678,0,0)" />
     </g>
     <g
-       style="opacity:1;fill:#808080"
+       style="opacity:1;fill:#ffffff"
        transform="matrix(1.1582698,1.1313709,-1.0910225,1.1313709,1204.402,272.26724)"
        id="arrow-plus-disabled">
       <path
@@ -4512,7 +4513,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
          transform="matrix(-0.70661567,-0.70759755,0.70710678,-0.70710678,0,0)" />
     </g>
     <g
-       style="opacity:1;fill:#808080"
+       style="opacity:1;fill:#ffffff"
        transform="matrix(1.1582698,1.1313709,-1.0910225,1.1313709,1204.4019,326.40064)"
        id="arrow-minus-disabled">
       <path
@@ -9063,18 +9064,18 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="translate(-497.10203,1032.1886)"
        id="g6788">
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1f222d;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:connector-curvature="0"
          id="expand-progress-pattern-normal"
          d="m 620.58903,193.95711 v 10 h 10 v -10 z" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1f222d;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:connector-curvature="0"
          id="expand-progress-normal"
          d="m 620.58903,203.95711 v 10 h 10 v -10 z"
          sodipodi:nodetypes="ccccc" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.609;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#1f222d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.609;stroke-linecap:round;stroke-linejoin:round"
          width="10"
          x="620.58905"
          y="183.95711"
@@ -9102,13 +9103,13 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   <circle
      r="8.4999743"
      id="slidercursor-normal"
-     style="fill:#333b4d;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1"
+     style="fill:#333b4d;fill-opacity:1;fill-rule:evenodd;stroke:#202020;stroke-opacity:1"
      cy="292.49539"
      cx="488.16049" />
   <circle
      cx="524.81671"
      cy="292.49539"
-     style="fill:#4d5574;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1"
+     style="fill:#4d5574;fill-opacity:1;fill-rule:evenodd;stroke:#202020;stroke-opacity:1"
      r="8.4999743"
      id="slidercursor-focused" />
   <circle
