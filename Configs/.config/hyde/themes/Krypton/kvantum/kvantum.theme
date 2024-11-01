@@ -9102,13 +9102,13 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   <circle
      r="8.4999743"
      id="slidercursor-normal"
-     style="fill:#333b4d;fill-opacity:1;fill-rule:evenodd;stroke:#202020;stroke-opacity:1"
+     style="fill:#333b4d;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1"
      cy="292.49539"
      cx="488.16049" />
   <circle
      cx="524.81671"
      cy="292.49539"
-     style="fill:#4d5574;fill-opacity:1;fill-rule:evenodd;stroke:#202020;stroke-opacity:1"
+     style="fill:#4d5574;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1"
      r="8.4999743"
      id="slidercursor-focused" />
   <circle
