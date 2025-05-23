@@ -8,10 +8,9 @@
 > [!IMPORTANT]
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
 
-![t1](./screenshots/ss_1.png)
-![t2](./screenshots/ss_2.png)
+![t2](./screenshots/ss_4.png)
 ![t3](./screenshots/ss_3.png)
-![t4](./screenshots/ss_4.png)
+![t4](./screenshots/ss_2.png)
 
 
 
