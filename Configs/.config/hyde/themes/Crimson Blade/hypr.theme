@@ -5,9 +5,9 @@ $ICON_THEME=Colorful-Dark-Icons
 $CURSOR_THEME=Future-cyan-cursors
 $COLOR_SCHEME=prefer-dark
 
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Colorful-Dark-Icons'
-exec = gsettings set org.gnome.desktop.interface gtk-theme "Kripton"
-exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
+exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
+exec = gsettings set org.gnome.desktop.interface color-scheme '$COLOR_SCHEME'
 
 general {
     gaps_in = 5
@@ -19,15 +19,8 @@ general {
     resize_on_border = true
 }
 
-group {
-    col.border_active = rgba(03edf9ff) rgba(72f1b8ff) 45deg
-    col.border_inactive = rgba(495495cc) rgba(614D85cc) 45deg
-    col.border_locked_active = rgba(03edf9ff) rgba(72f1b8ff) 45deg
-    col.border_locked_inactive = rgba(495495cc) rgba(614D85cc) 45deg
-}
-
 decoration {
-    rounding = 1
+    rounding = 2
     active_opacity=1.0
     inactive_opacity=0.9
     blur {
